@@ -446,7 +446,7 @@ footer p {
   height: 30px;
   pointer-events: none;
   z-index: -1; 
-  opacity: 0.25;
+  opacity: 0.125;
   animation: float linear infinite;
 }
 
